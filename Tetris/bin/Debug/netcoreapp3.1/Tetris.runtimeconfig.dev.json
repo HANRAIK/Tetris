@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\INDIGO-SERVER\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\INDIGO-SERVER\\.nuget\\packages"
+    ]
+  }
+}
